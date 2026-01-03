@@ -28,7 +28,7 @@
  * Modify nums in-place to achieve the desired sorted order.
  */
 
- package Arrays;
+package Arrays;
 import java.util.Scanner;
 public class SortColors {
 
